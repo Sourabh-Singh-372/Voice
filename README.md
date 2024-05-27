@@ -1,0 +1,1 @@
+Voice is an command line application for simplifying daily tasks like youtube and google searches and many other with just voice commands. I have also added a special feature where you can connect your database and search details just with your voice.
